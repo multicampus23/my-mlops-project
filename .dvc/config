@@ -1,4 +1,4 @@
 [core]
     remote = mlops_dvc_storage
 ['remote "mlops_dvc_storage"']
-    url = gdrive://https://drive.google.com/drive/folders/1b321JetsH92sfAKtNDI7_DM1zq0bQZ1D?usp=sharing
+    url = gdrive://1FnYlhI-qZOFeWIpBAMmSoRCCRHGl5JpT
